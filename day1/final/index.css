@@ -37,14 +37,16 @@ header{
     display: inline-grid;
     gap: 5px;   
 }
+
 .details{
     display: flex;
     flex-direction: row;
-
 }
+
 .details-header{
     min-width: 100px;
 }
+
 .card-img{
     width: 153px;
 }
